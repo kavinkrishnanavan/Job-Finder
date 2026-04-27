@@ -17,12 +17,10 @@ st.set_page_config(
 # -----------------------------
 st.markdown(
     """
-    <div style='text-align:center; gap:0px;'>
+    <div style='text-align:center;'>
         <h1>Job Search Engine</h1>
         <p>Made By Kavin</p>
-        
         <hr>
-        
     </div>
     """,
     unsafe_allow_html=True
